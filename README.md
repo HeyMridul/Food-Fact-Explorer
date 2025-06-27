@@ -142,6 +142,9 @@ No environment variables required - the app uses public APIs.
 - Update component styles in individual component files
 - Colors and spacing follow Tailwind CSS conventions
 
+## ⏰ Time Taken ⏳
+- It took me about 4.5 days to built this.
+
 
 ## 🔗 Links
 
