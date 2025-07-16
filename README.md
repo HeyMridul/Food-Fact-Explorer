@@ -43,7 +43,7 @@ A comprehensive web application for exploring food products using the OpenFoodFa
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/food-product-explorer.git
+   git clone https://github.com/HeyMridul/food-product-explorer.git
    cd food-product-explorer
    \`\`\`
 
